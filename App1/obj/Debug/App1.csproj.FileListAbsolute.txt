@@ -1,0 +1,16 @@
+C:\Visual Studio 2015\Android\App1\App1\bin\Debug\App1.dll
+C:\Visual Studio 2015\Android\App1\App1\bin\Debug\App1.pdb
+C:\Visual Studio 2015\Android\App1\App1\bin\Debug\App1.App1.apk
+C:\Visual Studio 2015\Android\App1\App1\bin\Debug\App1.App1-Signed.apk
+C:\Visual Studio 2015\Android\App1\App1\obj\Debug\App1.dll
+C:\Visual Studio 2015\Android\App1\App1\obj\Debug\App1.pdb
+C:\Visual Studio 2015\Android\App1\App1\obj\Debug\android\bin\App1.App1.apk
+C:\Visual Studio 2015\Android\App1\App1\obj\Debug\res\layout\main.xml
+C:\Visual Studio 2015\Android\App1\App1\obj\Debug\res\values\strings.xml
+C:\Visual Studio 2015\Android\App1\App1\obj\Debug\res\drawable\icon.png
+C:\Visual Studio 2015\Android\App1\App1\obj\Debug\R.cs.flag
+C:\Visual Studio 2015\Android\App1\App1\obj\Debug\uploadflags.txt
+C:\Visual Studio 2015\Android\App1\App1\bin\Debug\App1.dll.mdb
+C:\Visual Studio 2015\Android\App1\App1\obj\Debug\android\assets\App1.dll.mdb
+C:\Visual Studio 2015\Android\App1\App1\obj\Debug\res\layout\normalmodelayout.xml
+C:\Visual Studio 2015\Android\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
